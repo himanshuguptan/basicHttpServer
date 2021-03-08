@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c53db31a-b8a5-4d59-86c7-bdbc1681bfc1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pQJOBtbGCCZAmylgxlmWjXEzFd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.httpServer.http" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HttpServer">
+    <configuration name="HttpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.httpServer.basicHttpServer.HttpServer" />
+      <module name="httpServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.httpServer.basicHttpServer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpRequestParserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="httpServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.httpServer.http.exceptions.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.httpServer.http" />
+      <option name="MAIN_CLASS_NAME" value="com.httpServer.http.HttpRequestParserTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpRequestParserTest.parseHttpRequest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="httpServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.httpServer.http.exceptions.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.httpServer.http" />
+      <option name="MAIN_CLASS_NAME" value="com.httpServer.http.HttpRequestParserTest" />
+      <option name="METHOD_NAME" value="parseHttpRequest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HttpServer" />
+        <item itemvalue="JUnit.HttpRequestParserTest" />
+        <item itemvalue="JUnit.HttpRequestParserTest.parseHttpRequest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c53db31a-b8a5-4d59-86c7-bdbc1681bfc1" name="Default Changelist" comment="" />
+      <created>1615109345857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615109345857</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1612" y="-89" key="#com.intellij.ide.util.MemberChooser" timestamp="1615197074022">
+      <screen x="-2560" y="-267" width="2560" height="1440" />
+    </state>
+    <state x="-1612" y="-89" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/-2560.-267.2560.1440@-2560.-267.2560.1440" timestamp="1615193520073" />
+    <state x="533" y="125" key="#com.intellij.ide.util.MemberChooser/0.23.1440.823@0.23.1440.823" timestamp="1615110307515" />
+    <state x="-1612" y="-89" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877/-2560.-267.2560.1440@-2560.-267.2560.1440" timestamp="1615197074022" />
+    <state x="-1668" y="-267" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1615197297161">
+      <screen x="-2560" y="-267" width="2560" height="1440" />
+    </state>
+    <state x="-1668" y="-267" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900/-2560.-267.2560.1440@-2560.-267.2560.1440" timestamp="1615197297161" />
+    <state width="2518" height="234" key="GridCell.Tab.0.bottom" timestamp="1615205017929">
+      <screen x="-2560" y="-267" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="234" key="GridCell.Tab.0.bottom/0.0.1440.900/-2560.-267.2560.1440@-2560.-267.2560.1440" timestamp="1615205017929" />
+    <state width="2518" height="234" key="GridCell.Tab.0.bottom/0.23.1440.877/-2560.-267.2560.1440@-2560.-267.2560.1440" timestamp="1615197183023" />
+    <state width="2518" height="234" key="GridCell.Tab.0.center" timestamp="1615205017925">
+      <screen x="-2560" y="-267" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="234" key="GridCell.Tab.0.center/0.0.1440.900/-2560.-267.2560.1440@-2560.-267.2560.1440" timestamp="1615205017925" />
+    <state width="2518" height="234" key="GridCell.Tab.0.center/0.23.1440.877/-2560.-267.2560.1440@-2560.-267.2560.1440" timestamp="1615197183020" />
+    <state width="2518" height="234" key="GridCell.Tab.0.left" timestamp="1615205017924">
+      <screen x="-2560" y="-267" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="234" key="GridCell.Tab.0.left/0.0.1440.900/-2560.-267.2560.1440@-2560.-267.2560.1440" timestamp="1615205017924" />
+    <state width="2518" height="234" key="GridCell.Tab.0.left/0.23.1440.877/-2560.-267.2560.1440@-2560.-267.2560.1440" timestamp="1615197183018" />
+    <state width="2518" height="234" key="GridCell.Tab.0.right" timestamp="1615205017928">
+      <screen x="-2560" y="-267" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="234" key="GridCell.Tab.0.right/0.0.1440.900/-2560.-267.2560.1440@-2560.-267.2560.1440" timestamp="1615205017928" />
+    <state width="2518" height="234" key="GridCell.Tab.0.right/0.23.1440.877/-2560.-267.2560.1440@-2560.-267.2560.1440" timestamp="1615197183022" />
+    <state width="2518" height="416" key="GridCell.Tab.1.bottom" timestamp="1615196133168">
+      <screen x="-2560" y="-267" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="416" key="GridCell.Tab.1.bottom/0.0.1440.900/-2560.-267.2560.1440@-2560.-267.2560.1440" timestamp="1615195849222" />
+    <state width="2518" height="416" key="GridCell.Tab.1.bottom/0.23.1440.877/-2560.-267.2560.1440@-2560.-267.2560.1440" timestamp="1615196133168" />
+    <state width="2518" height="416" key="GridCell.Tab.1.center" timestamp="1615196133163">
+      <screen x="-2560" y="-267" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="416" key="GridCell.Tab.1.center/0.0.1440.900/-2560.-267.2560.1440@-2560.-267.2560.1440" timestamp="1615195849218" />
+    <state width="2518" height="416" key="GridCell.Tab.1.center/0.23.1440.877/-2560.-267.2560.1440@-2560.-267.2560.1440" timestamp="1615196133163" />
+    <state width="2518" height="416" key="GridCell.Tab.1.left" timestamp="1615196133162">
+      <screen x="-2560" y="-267" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="416" key="GridCell.Tab.1.left/0.0.1440.900/-2560.-267.2560.1440@-2560.-267.2560.1440" timestamp="1615195849217" />
+    <state width="2518" height="416" key="GridCell.Tab.1.left/0.23.1440.877/-2560.-267.2560.1440@-2560.-267.2560.1440" timestamp="1615196133162" />
+    <state width="2518" height="416" key="GridCell.Tab.1.right" timestamp="1615196133167">
+      <screen x="-2560" y="-267" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="416" key="GridCell.Tab.1.right/0.0.1440.900/-2560.-267.2560.1440@-2560.-267.2560.1440" timestamp="1615195849221" />
+    <state width="2518" height="416" key="GridCell.Tab.1.right/0.23.1440.877/-2560.-267.2560.1440@-2560.-267.2560.1440" timestamp="1615196133167" />
+    <state x="258" y="96" key="Maven.ArtifactSearchDialog" timestamp="1615110601181">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="258" y="96" key="Maven.ArtifactSearchDialog/0.23.1440.823@0.23.1440.823" timestamp="1615110601181" />
+    <state x="-1711" y="-94" width="1024" height="823" key="SettingsEditor" timestamp="1615205805923">
+      <screen x="-2560" y="-267" width="2560" height="1440" />
+    </state>
+    <state x="-1711" y="-94" key="SettingsEditor/0.0.1440.900/-2560.-267.2560.1440@-2560.-267.2560.1440" timestamp="1615205805923" />
+    <state x="208" y="23" width="1024" height="823" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1615111398953" />
+    <state x="399" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1615109349973">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="399" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1615109349973" />
+    <state x="-1501" y="202" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1615168641885">
+      <screen x="-2560" y="-267" width="2560" height="1440" />
+    </state>
+    <state x="-1501" y="202" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.900/-2560.-267.2560.1440@-2560.-267.2560.1440" timestamp="1615168641885" />
+    <state x="-1760" y="196" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1615195566195">
+      <screen x="-2560" y="-267" width="2560" height="1440" />
+    </state>
+    <state x="-1760" y="196" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.900/-2560.-267.2560.1440@-2560.-267.2560.1440" timestamp="1615195566195" />
+    <state x="-1614" y="88" width="667" height="729" key="find.popup" timestamp="1615196671624">
+      <screen x="-2560" y="-267" width="2560" height="1440" />
+    </state>
+    <state x="-1614" y="88" width="667" height="729" key="find.popup/0.0.1440.900/-2560.-267.2560.1440@-2560.-267.2560.1440" timestamp="1615196671624" />
+    <state x="-1615" y="64" width="670" height="676" key="search.everywhere.popup" timestamp="1615206562739">
+      <screen x="-2560" y="-267" width="2560" height="1440" />
+    </state>
+    <state x="-1615" y="64" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-2560.-267.2560.1440@-2560.-267.2560.1440" timestamp="1615206562739" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/httpServer/http/EmptyHttpResponse.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/httpServer/http/HttpResponse.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="response.getResponseLine()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
